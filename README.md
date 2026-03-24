@@ -50,9 +50,12 @@ Queries are credit-gated with a transparent, pay-as-you-go model so you only pay
 
 ### Access
 
-The API is currently available only by invitation. To request access, email with the exact subject:
+The API is currently available only by invitation. 
 
-vkydtech@gmail.com  
+email: vkydtech@gmail.com  
+
+To request access, email with the exact subject:
+
 Subject: KLINES API ACCESS
 
-Include a brief note on your intended use case to suggest appropriate price plan.
+Include a comprehensive note outlining your intended use case and purpose. Specify the average number of URL requests you expect to send per month, along with any additional queries or relevant usage details to help determine the most suitable pricing plan.
